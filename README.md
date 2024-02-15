@@ -1,5 +1,4 @@
 # Image processing
-[![Generic badge](https://img.shields.io/badge/Made%20with-.NET%20Framework%204.8-1abc9c.svg)](https://dotnet.microsoft.com/en-us/)&nbsp;&nbsp;
 
 This monorepo include sample applications for images processing (image compression and video transcoding).
 Contains desktop apps written in Windows Forms technology with .NET Framework v4.8.
